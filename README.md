@@ -1,115 +1,109 @@
-  
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Diani Kaumadi</h1>
-
+<!-- TOP BANNER -->
 <p align="center">
-  <a href="https://github.com/DianiK/readme-typing-svg">
-    <picture align="left">
-      <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px">
-    </picture>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=400&height=100&lines=Hi,+I'm+Diani;Welcome+to+My+GitHub+Profile!;A+Passionate+Full-stack+Developer;AI+Enthusiast+and+Tech+Explorer;Driven+by+Innovation+and+Continuous+Learning;Focused+on+Building+Scalable+Solutions;">
-   <picture align="right">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="170" height="170" frameBorder="0" align='right' class="giphy-embed" allowFullScreen>
-</picture>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Diani%20Kaumadi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovator&descAlignY=55&descAlign=50" alt="banner"/>
 </p>
 
- 
-<h3 align="center"> 🎓 Undergraduate Student at SLIIT | Software Engineering Enthusiast</h3>
-<h3 align="center">💡 Innovator | 👨‍💻 Developer | 🚀 Problem Solver</h3>
-
-
-<br><br>
- 
-
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=DianiK&label=Profile%20views&&color=red&style=flat" alt="DianiK" />  •   
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/DianiK?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/DianiK?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/DianiK"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working on **innovative web development projects** that explore the latest in front-end and back-end technologies.
-- 🌱 I’m continuously enhancing my skills in **Java, JavaScript, and modern web frameworks** .
-- 💬 Feel free to ask me about **C, C++, and algorithm design**
-- 💼 I specialize in  **web development**, .
-- ⚡ Embracing a passion for continuous learning and creative problem-solving.
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--- stats & Trophy (start) -->
-  <!--- stats (start) 
-<table align="center">
-<tr>
-  <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DianiK&theme=radical&show_icons=true&count_private=true" alt="GitHub Stats" />
-    <br><br>
-    <img src="https://streak-stats.demolab.com?user=DianiK&theme=radical&hide_border=false" alt="GitHub Streak" /> 
-  </td>
-
-  <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DianiK&theme=radical&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
-    <br><br>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DianiK&theme=radical&hide_border=false" alt="GitHub Activity Graph" />
-  </td>
-</tr>
-</table>
--->
-
-
-
-<!--- stats (end) -->
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,c++,mongodb,vite,css,discord,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,react,php,ts,vscode&perline=14" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contact me 🤝</h3>
-
-<p align="center">
- <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/athsarabimalka/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/athsarab">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/aw_beem">
-      <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/AthsaraBimalka">
-      <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://fb.com/athsarab">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"></a>
-
-  </div>
-
-</p>
+<!-- QUICK FACTS -->
 <div align="center">
 
-<img align="center" alt="Coding" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif">  <br>
+### 🎓 Undergraduate @ SLIIT · 💡 Innovator · 👨‍💻 Developer · 🚀 Problem Solver
 
-![Contributors](https://img.shields.io/github/contributors/athsarab/athsarab?&labelColor=black&color=4cd137&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/athsarab/athsarab?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/athsarab/athsarab?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/athsarab/athsarab?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Dianikaumadi&label=Profile%20views&color=red&style=flat&v=6" alt="views" />
+  <img src="https://img.shields.io/github/followers/Dianikaumadi?label=Followers&style=social&v=6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Dianikaumadi?label=Stars&style=social&v=6" alt="stars" />
+  <a href="https://github.com/sponsors/Dianikaumadi"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff6680?logo=github&v=6" alt="Sponsor" /></a>
+</p>
+
 </div>
+
+<!-- ABOUT ME -->
+## ✨ About Me
+
+- 🔭 Currently building **modern web apps** across frontend & backend.  
+- 🌱 Leveling up in **Java, JavaScript, and modern frameworks**.  
+- 💬 Ask me about **C, C++, algorithms**, and clean architecture.  
+- 💼 I specialize in **full-stack web development**.  
+- ⚡ I love turning ideas into polished products and learning fast.  
+
+---
+
+<!-- TECH STACK -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display:inline-block">Technologies I Use 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,java,js,ts,react,nextjs,nodejs,express,html,css,tailwind,vite&perline=14" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,php,,linux,mysql,mongodb,,postman,figma&perline=14" />
+  </a>
+</p>
+
+---
+<!-- STATS -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Dianikaumadi&show_icons=true&count_private=true&theme=radical&hide_border=true"
+        alt="GitHub Stats"
+      />
+      <br /><br />
+      <img
+        src="https://streak-stats.demolab.com?user=Dianikaumadi&theme=radical&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dianikaumadi&layout=compact&langs_count=8&theme=radical&hide_border=true"
+        alt="Top Languages"
+      />
+      <br /><br />
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Dianikaumadi&theme=radical&hide_border=true"
+        alt="Activity Graph"
+      />
+    </td>
+  </tr>
+</table>
+
+
+<!-- FEATURED / PROJECTS -->
+### 🔗 Featured
+
+- 🌾 **Golden Grain Mill Management System** – Spring Boot, React (Vite + Tailwind), MySQL, real-time updates, analytics.  
+- 🧠 **Mind Bloom** – Mindfulness app concept with pastel gradients and serene UX.  
+
+
+---
+
+<!-- CONTACT -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28" style="margin-right:8px;"> Contact Me
+</h3>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
+  <a href="https://github.com/Dianikaumadi" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
+  <a href="YOUR_INSTAGRAM_URL" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram"></a>
   
+</p>
+
+---
+
+<!-- BOTTOM BANNER + CUSTOM GRADIENT BADGES -->
+<div align="center">
+  <img alt="coding loop" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" width="100%" />
+  <br/><br/>
+
+  <!-- Gradient vibe badges -->
+  <img src="https://img.shields.io/badge/Open%20to%20Work-%F0%9F%9A%80-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2&color=ff69b4" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript%20%26%20Java-blueviolet?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=6A0DAD&color=00CED1" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-cyan?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=483D8B&color=20B2AA" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Algorithms%20%26%20C++-pink?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8B008B&color=FF1493" />
+</div>
