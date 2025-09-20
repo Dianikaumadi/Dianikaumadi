@@ -94,12 +94,9 @@
   
 </p>
 
----
-
 <!-- BOTTOM BANNER + CUSTOM GRADIENT BADGES -->
 <div align="center">
-  <img alt="coding loop" src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" width="100%" />
-  <br/><br/>
+  
 
   <!-- Gradient vibe badges -->
   <img src="https://img.shields.io/badge/Open%20to%20Work-%F0%9F%9A%80-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=8A2BE2&color=ff69b4" />
@@ -107,3 +104,5 @@
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-cyan?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=483D8B&color=20B2AA" />
   <img src="https://img.shields.io/badge/Ask%20Me-Algorithms%20%26%20C++-pink?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=8B008B&color=FF1493" />
 </div>
+
+
