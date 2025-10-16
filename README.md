@@ -60,9 +60,8 @@
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dianikaumadi&layout=compact&langs_count=8&theme=radical&hide_border=true"
-        alt="Top Languages"
-      />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dianikaumadi&layout=compact&langs_count=8&theme=radical&hide_border=true&v=2"
+/>
       <br /><br />
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=Dianikaumadi&theme=radical&hide_border=true"
